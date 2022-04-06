@@ -59,8 +59,9 @@
     https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
 
 10. Unit-тестрирование
-1) python manage.py test
-2) python project/manage.py test project/app_logs_apache/tests
-3) coverage run --source='.' manage.py test .
-4) coverage report
-5) coverage html
+   1) python manage.py test
+   2) coverage run --source='.' manage.py test .
+   3) coverage report
+   4) coverage html
+
+   Пароль и логин от тестовой базы admin/admin
