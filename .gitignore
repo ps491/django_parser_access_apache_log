@@ -160,3 +160,13 @@ cython_debug/
 #.idea/
 project/app_logs_apache/services/cron copy 2.py
 project/app_logs_apache/services/cron copy.py
+django_project/app_logs_apache/services/cron copy.py
+django_project/app_logs_apache/services/cron copy 2.py
+.idea/.gitignore
+.idea/dbnavigator.xml
+.idea/django_parser_access_apache_log.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/profiles_settings.xml

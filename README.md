@@ -55,3 +55,12 @@
     https://docs.microsoft.com/en-us/windows/wsl/basic-commands
     https://netpoint-dc.com/blog/python-venv-ubuntu-1804/
     https://alimuradov.ru/ispolzovanie-cron-v-podsisteme-linux-wsl-v-windows-10/
+    https://realpython.com/python-assert-statement/
+    https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
+
+10. Unit-тестрирование
+python manage.py test
+python project/manage.py test project/app_logs_apache/tests
+coverage run --source='.' manage.py test .
+coverage report
+coverage html

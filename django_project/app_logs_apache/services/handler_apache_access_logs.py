@@ -8,7 +8,7 @@ from dateutil import parser
 from project.settings import ConfigParseLogs
 
 
-class AccessLogsToJson():
+class AccessLogsToJson:
 
     def __init__(self):
         super().__init__()
