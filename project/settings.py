@@ -82,6 +82,7 @@ WSGI_APPLICATION = 'project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
+<<<<<<< HEAD:project/settings.py
 # FOR UNIT (PYTEST)
 #DATABASES = {
 #    'default': {
@@ -90,6 +91,8 @@ WSGI_APPLICATION = 'project.wsgi.application'
 #    }
 #}
 
+=======
+>>>>>>> 05a88d4c94fd0720813a51e101e1ed53e5212f00:django_project/project/settings.py
 import sys
 import os
 TESTING = sys.argv[1:2] == ['test']
