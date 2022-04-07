@@ -51,17 +51,20 @@
     3) /api/apache_logs/?date_after=2022-04-04&date_before=2022-04-04
 
  9. Ссылки на доп материалы:
-    https://docs.microsoft.com/ru-ru/windows/wsl/install-manual
-    https://docs.microsoft.com/en-us/windows/wsl/basic-commands
-    https://netpoint-dc.com/blog/python-venv-ubuntu-1804/
-    https://alimuradov.ru/ispolzovanie-cron-v-podsisteme-linux-wsl-v-windows-10/
-    https://realpython.com/python-assert-statement/
-    https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
+    1) https://docs.microsoft.com/ru-ru/windows/wsl/install-manual
+    2) https://docs.microsoft.com/en-us/windows/wsl/basic-commands
+    3) https://netpoint-dc.com/blog/python-venv-ubuntu-1804/
+    4) https://alimuradov.ru/ispolzovanie-cron-v-podsisteme-linux-wsl-v-windows-10/
+    5) https://realpython.com/python-assert-statement/
+    6) https://www.vinta.com.br/blog/2017/how-i-test-my-drf-serializers/
 
 10. Unit-тестрирование
    1) python manage.py test
    2) coverage run --source='.' manage.py test .
    3) coverage report
    4) coverage html
+
+11. Установка с Docker
+   1) docker build .
 
    Пароль и логин от тестовой базы admin/admin
